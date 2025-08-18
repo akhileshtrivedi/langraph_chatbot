@@ -1,0 +1,22 @@
+# Environment files
+.env
+.env.*
+# Vartual Environment
+chatvenv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
