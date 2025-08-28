@@ -40,7 +40,7 @@ add_thread(st.session_state['thread_id'])
 
 # **************************************** Sidebar UI *********************************
 
-st.sidebar.title('LangGraph Chatbot')
+st.sidebar.title('Akhilesh Chatbot')
 
 if st.sidebar.button('New Chat'):
     reset_chat()
